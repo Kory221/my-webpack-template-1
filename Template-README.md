@@ -10,6 +10,3 @@ https://www.theodinproject.com/lessons/node-path-javascript-revisiting-webpack#t
 
 for deployment assigments : 
 https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page
-
-
-NB  : Check the part about WEBPACK MODES to improve the template later.
